@@ -1,0 +1,5 @@
+deploy.process.instances.PAS_SQ_In=1
+deploy.profiles=,localhost
+deploy.profiles.connector.localhost=Input_Log,Input_Log|Pas_Main_Q,Pas_Main_Q|
+deploy.profiles.listeners.localhost=PAS_In,PAS_File_Test_Listener,PAS_TCP_Test_Listener
+eclipse.preferences.version=1

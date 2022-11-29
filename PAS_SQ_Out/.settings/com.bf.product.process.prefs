@@ -1,0 +1,4 @@
+deploy.process.instances.PAS_SQ_Out=1
+deploy.profiles=,localhost
+deploy.profiles.connector.localhost=REST API,REST_Post_HTTPConnector|PAS_SQ_Out,PAS_SQ_Out|SQ_Port_Log,SQ_Port_Log|Authenticate Request Connector,AuthenticateRequest_ProcessConnector|Find Patient by MRN REST API,REST_Post_HTTPConnector|
+eclipse.preferences.version=1

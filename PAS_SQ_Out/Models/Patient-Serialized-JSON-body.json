@@ -1,0 +1,22 @@
+{
+  "mrn": "900093258",
+  "title": "Mr",
+  "firstname": "Jacky",
+  "surname": "TESTING",
+  "Date_of_Birth": "12/03/2000",
+  "Gender": "M",
+  "mobile": "07713043822",
+  "home_phone": "07713043822",
+  "Address_1": "^^^^^USA^P",
+  "Address_2": "xx",
+  "Address_3": "yy",
+  "Address_4": "zz",
+  "Address_5": "xx",
+  "sms_notifications": "Yes",
+  "status": "active",
+  "gp_details": "details",
+  "next_of_kin": {
+    "name": "myName",
+    "phone": "07713043822"
+  }
+}

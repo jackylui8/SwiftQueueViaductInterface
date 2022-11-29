@@ -1,0 +1,6 @@
+{
+   "audience": "self.Auth.Audience",
+   "grant_type": "client_credentials",
+   "client_secret": "Abc123$$$",
+   "client_id": "abc"
+}

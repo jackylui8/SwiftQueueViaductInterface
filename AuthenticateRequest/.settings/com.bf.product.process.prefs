@@ -1,0 +1,4 @@
+deploy.process.instances.AuthenticateRequest=1
+deploy.profiles=localhost
+deploy.profiles.connector.localhost=Introspection POST HTTP Connector,Introspection_POST_HTTPConnector|Generic Error Handler,GenericErrorHandler_ProcessConnector|
+eclipse.preferences.version=1

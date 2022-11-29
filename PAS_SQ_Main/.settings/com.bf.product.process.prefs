@@ -1,0 +1,5 @@
+deploy.process.instances.PAS_SQ_Main=1
+deploy.profiles=,SwiftQueueTestServer
+deploy.profiles.connector.SwiftQueueTestServer=PAS_Out_Q,PAS_Out_Q|
+deploy.profiles.listeners.SwiftQueueTestServer=Pas_Main_Queue
+eclipse.preferences.version=1
